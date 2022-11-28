@@ -1,6 +1,6 @@
 # Problem-Solving-Paradigm-2
 
-Tugas Alta Immersive Frontend Fundamental Programming (Dynamic Programming)
+Tugas Alta Immersive Frontend Fundamental Programming (D&C, Dynamic Programming)
 
 ## Tata Cara Pengerjakan Tugas
 

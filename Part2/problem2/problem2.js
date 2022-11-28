@@ -1,5 +1,5 @@
-function fibo(n) {
-  //  Your code here
+function binarySearch(array, x) {
+  // Your code here
 }
 
-module.exports = fibo;
+module.exports = binarySearch;
