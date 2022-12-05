@@ -1,4 +1,4 @@
-const binarySearch = require("./problem2");
+import binarySearch from "./problem2";
 
 test("Test 1", () => {
   expect(binarySearch([1, 1, 3, 5, 5, 6, 7], 3)).toEqual(2);

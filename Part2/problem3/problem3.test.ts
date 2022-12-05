@@ -1,4 +1,4 @@
-const frog = require("./problem3");
+import frog from "./problem3";
 
 test("Test 1", () => {
   expect(frog([10, 30, 40, 20])).toEqual(30);

@@ -7,7 +7,7 @@ Tugas Alta Immersive Frontend Fundamental Programming (D&C, Dynamic Programming)
 1. Clone repository ini dengan cara
 
 ```
-git clone https://github.com/Immersive-Frontend-Resource/Problem-Solving-Paradigm-2.git
+git clone -b typescript https://github.com/Immersive-Frontend-Resource/Problem-Solving-Paradigm-2.git
 ```
 
 setelah itu buat repository pada github organization kalian dengan format `Problem-Solving-Paradigm-2`, lalu copy link HTTPS seperti gambar dibawah

@@ -1,4 +1,4 @@
-const romanNumerals = require("./problem4");
+import romanNumerals from "./problem4";
 
 test("Test 1", () => {
   expect(romanNumerals(6)).toEqual("VI");
